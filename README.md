@@ -29,6 +29,26 @@ The project uses the `Phishing_Legitimate_full.csv` dataset, which contains webs
 
 ---
 
+## 🚀 Steps to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SudeepRD001/Phishing-Website-Detection-using-ML.git
+   cd Phishing-Website-Detection-using-ML
+   ```
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   The primary libraries used are `pandas`, `numpy`, `scikit-learn`, `matplotlib`, and `seaborn`.
+
+3. Download the dataset and place it in the project's root directory.
+
+4. Run the Notebook:
+   Launch the Jupyter Notebook and open the project file:
+   ```bash
+   jupyter notebook Phishing_Website_Detection_using_ML.ipynb
+   ```
+---
 ## 🚀 **Workflow**
 1. **Load Dataset**:
    - Import and analyze the dataset.
