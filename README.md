@@ -58,4 +58,5 @@ The model successfully differentiates between phishing and legitimate websites. 
 - **High Accuracy** using Random Forest.
 - Robust feature analysis for phishing detection.
 
-
+## 🙌 Acknowledgments
+Special thanks to open-source tools like Scikit-learn and the dataset contributors for enabling this project.
